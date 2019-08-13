@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alissa-32/static/css/main.2cce8147.chunk.css",
-    "main.js": "/alissa-32/static/js/main.254429e2.chunk.js",
-    "main.js.map": "/alissa-32/static/js/main.254429e2.chunk.js.map",
-    "runtime~main.js": "/alissa-32/static/js/runtime~main.34d8e2bf.js",
-    "runtime~main.js.map": "/alissa-32/static/js/runtime~main.34d8e2bf.js.map",
-    "static/js/2.35ec7ccc.chunk.js": "/alissa-32/static/js/2.35ec7ccc.chunk.js",
-    "static/js/2.35ec7ccc.chunk.js.map": "/alissa-32/static/js/2.35ec7ccc.chunk.js.map",
-    "index.html": "/alissa-32/index.html",
-    "precache-manifest.58e077161c9e19f705e5eb7e320ee3a0.js": "/alissa-32/precache-manifest.58e077161c9e19f705e5eb7e320ee3a0.js",
-    "service-worker.js": "/alissa-32/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/alissa-32/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/alissa-32/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.2cce8147.chunk.css",
+    "main.js": "/static/js/main.28612e54.chunk.js",
+    "main.js.map": "/static/js/main.28612e54.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.bb2e79df.js",
+    "runtime~main.js.map": "/static/js/runtime~main.bb2e79df.js.map",
+    "static/js/2.35ec7ccc.chunk.js": "/static/js/2.35ec7ccc.chunk.js",
+    "static/js/2.35ec7ccc.chunk.js.map": "/static/js/2.35ec7ccc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c005361cbf4288072c1cd2ac4dbd2eb5.js": "/precache-manifest.c005361cbf4288072c1cd2ac4dbd2eb5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
